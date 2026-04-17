@@ -41,15 +41,12 @@ flow-rule-timeout-manager/
 │   ├── timeout_manager.py     # Ryu SDN controller
 │   └── topology.py            # Mininet topology (4 hosts, 1 switch)
 │
-├── screenshots/
-│   ├── T1-SS1-controller-started.png
-│   ├── T1-SS2-blocked-flow-installed.png
-│   ├── T1-SS3-flow-expired-timeout.png
-│   ├── T2-SS1-scenario1&2.png
-│   └── T2-SS2-scenario5-regression-test.png
-│
-└── docs/
-    └── project-report.pdf
+── screenshots/
+    ├── T1-SS1-controller-started.png
+    ├── T1-SS2-blocked-flow-installed.png
+    ├── T1-SS3-flow-expired-timeout.png
+    ├── T2-SS1-scenario1&2.png
+    └── T2-SS2-scenario5-regression-test.png
 ```
 
 ---
