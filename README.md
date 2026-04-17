@@ -45,9 +45,8 @@ flow-rule-timeout-manager/
 │   ├── T1-SS1-controller-started.png
 │   ├── T1-SS2-blocked-flow-installed.png
 │   ├── T1-SS3-flow-expired-timeout.png
-│   ├── T2-SS1-scenario1-normal-forwarding.png
-│   ├── T2-SS2-scenario2-blocked-host.png
-│   └── T2-SS3-scenario5-regression-test.png
+│   ├── T2-SS1-scenario1&2.png
+│   └── T2-SS2-scenario5-regression-test.png
 │
 └── docs/
     └── project-report.pdf
